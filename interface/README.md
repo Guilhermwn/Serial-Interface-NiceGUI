@@ -20,7 +20,7 @@ Este projeto cria uma interface web utilizando a biblioteca **NiceGUI**, que ren
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/usuario/repo.git
+   git clone Guilhermwn/Serial-Interface-NiceGUI
    cd repo
    ```
 
