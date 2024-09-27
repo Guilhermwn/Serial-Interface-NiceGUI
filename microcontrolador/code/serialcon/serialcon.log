@@ -1,0 +1,11 @@
+    0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -DL -O11111114 -fo8 -N"C:\Guilhermwn\DynamicProjects\YouTube-tutorials\nicegui-pic\microcontrolador\code\serialcon\serialcon.mcppi" -SP"C:\Users\Guilherme Freire\Downloads\Portables\mikroC\Defs\" -SP"C:\Users\Guilherme Freire\Downloads\Portables\mikroC\Uses\P16\" -SP"C:\Guilhermwn\DynamicProjects\YouTube-tutorials\nicegui-pic\microcontrolador\code\serialcon\" -IP"C:\Users\Guilherme Freire\Downloads\Portables\mikroC\Uses\P16\" -IP"C:\Guilhermwn\DynamicProjects\YouTube-tutorials\nicegui-pic\microcontrolador\code\serialcon\" "serialcon.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	usart.h
+diagnostics: 35	123	Compiled Successfully	serialcon.c
+diagnostics: 0	127	All files Compiled in 141 ms	 
+hint: 0	1144	Used RAM (bytes): 8 (2%)  Free RAM (bytes): 344 (98%)	Used RAM (bytes): 8 (2%)  Free RAM (bytes): 344 (98%)
+hint: 0	1144	Used ROM (program words): 514 (6%)  Free ROM (program words): 7678 (94%)	Used ROM (program words): 514 (6%)  Free ROM (program words): 7678 (94%)
+diagnostics: 0	125	Project Linked Successfully	serialcon.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'serialcon.mcppi' completed: 235 ms	 
+diagnostics: 0	103	Finished successfully: 14 jul 2024, 12:50:23	serialcon.mcppi

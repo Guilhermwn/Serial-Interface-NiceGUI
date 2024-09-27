@@ -1,0 +1,5 @@
+main
+	INICIAR_USART
+		Div_32x32_U
+	Dado_Pronto_USART
+	RXCHR_USART
